@@ -1,0 +1,9 @@
+target/
+*.sqlite
+
+# Nix
+result*
+result-*
+
+# Misc
+.direnv
